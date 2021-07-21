@@ -1,4 +1,4 @@
-# Hola, soy **[Notshak](https://www.linkedin.com/in/nahuel-perez/)**! 
+# Hola, soy **[Notshak](https://www.linkedin.com/in/nahuel-perez/)**!👋 
 ### Full Stack Web Developer 
   
 Sin duda el mundo de la programación es uno de los mundos que concuerdan mejor conmigo, me siento muy cómodo en este campo, me encanta estar constantemente aprendiendo sobre nuevas tecnologías, lenguajes de programación, etc.
@@ -41,5 +41,3 @@ Base de datos -
    - ![dev.to badge](https://img.shields.io/badge/-LINKEDIN-%230177B5?style=flat&logo=linkedin) https://www.linkedin.com/in/nahuel-perez/
    - ![phone badge](https://img.shields.io/badge/-📱teléfono-onfirmational) +54 9 11 6046-5690 
    - ![Whats App](https://img.shields.io/badge/-Whats%20App-brightgreen) https://wa.link/wiw24s
-<!--
-**LeonelBoccanfuso/LeonelBoccanfuso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
