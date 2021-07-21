@@ -8,7 +8,7 @@ Sin duda el mundo de la programación es uno de los mundos que concuerdan mejor 
 
 ---
 
-### Habilidades que he adquirido en #soyHenry:
+### HABILIDADES PRINCIPALES:
 React - 
 Redux - 
 JavaScript - 
@@ -36,11 +36,11 @@ Base de datos -
 <br>
 <br>
 
-### 📫Contáctame:
+### 💬Contacto:
    - ![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imntshk@gmail.com) 
-   imntshk@gmail.com
+   - imntshk@gmail.com
    - ![dev.to badge](https://img.shields.io/badge/-LINKEDIN-%230177B5?style=flat&logo=linkedin) https://www.linkedin.com/in/nahuel-perez/
-   - ![phone badge](https://img.shields.io/badge/Teléfono-%2B54%209%2011%206046--5690%20-green)Teléfono : +54 9 11 6046-5690 
-   - ![Whats App](https://img.shields.io/badge/Whats%20App-https%3A%2F%2Fwa.link%2Fwiw24s-brightgreen)Link de Whats App : https://wa.link/wiw24s
+   - ![phone badge](https://img.shields.io/badge/Teléfono-%2B54%209%2011%206046--5690%20-green) +54 9 11 6046-5690 
+   - ![Whats App](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMGQDJdNlJ8l1_0Vi51G2oxQYQfTf60mczMQ&usqp=CAU) https://wa.link/wiw24s
 <!--
 **LeonelBoccanfuso/LeonelBoccanfuso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
