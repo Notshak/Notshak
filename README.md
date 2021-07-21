@@ -9,19 +9,19 @@ Sin duda el mundo de la programación es uno de los mundos que concuerdan mejor 
 ---
 
 ### Habilidades que he adquirido en #soyHenry:
-React
-Redux
-JavaScript
-Node.js
-HTML
-GitHub
-Sequelize
-Databases
-Express 
-PostgreSQL 
-GitHub 
-Scrum  
-Base de datos
+React - 
+Redux - 
+JavaScript - 
+Node.js - 
+HTML - 
+GitHub - 
+Sequelize - 
+Databases - 
+Express - 
+PostgreSQL - 
+GitHub - 
+Scrum - 
+Base de datos - 
 
 
 ### Mis stats:
