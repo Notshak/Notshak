@@ -39,7 +39,7 @@ Base de datos -
 ### 💬Contacto:
    - ![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imntshk@gmail.com) imntshk@gmail.com
    - ![dev.to badge](https://img.shields.io/badge/-LINKEDIN-%230177B5?style=flat&logo=linkedin) https://www.linkedin.com/in/nahuel-perez/
-   - ![phone badge](https://img.shields.io/badge/-teléfono-informational) +54 9 11 6046-5690 
+   - ![phone badge](https://img.shields.io/badge/-📱teléfono-onfirmational) +54 9 11 6046-5690 
    - ![Whats App](https://img.shields.io/badge/-Whats%20App-brightgreen) https://wa.link/wiw24s
 <!--
 **LeonelBoccanfuso/LeonelBoccanfuso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
