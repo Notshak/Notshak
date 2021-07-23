@@ -8,7 +8,7 @@ Sin duda el mundo de la programación es uno de los mundos que concuerdan mejor 
 
 ---
 
-### HABILIDADES PRINCIPALES:
+### HABILIDADES:
 React - 
 Redux - 
 JavaScript - 
