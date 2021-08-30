@@ -57,9 +57,9 @@ Base de datos -
 ### DOGS es una aplicación que te permite consumir la API de DOGS, crear una nueva raza de perro integrandola a la API, hacer busquedas o filtrar por diferentes parametros.
 ##### Features: Catalogo / Paginación / Formularios / Detalle de Producto / Busqueda / Filtrado / Ordenamiento / Consume API / 
 <p align="center">
-    <img src="https://github.com/MB-ARG/MB-ARG/blob/main/images/proyects/dogs_1.png" width="2000" height="600" align="center"/>
-    <img src="https://farmacosalud.com/wp-content/uploads/2015/10/separador-1.png" width="2000" height="80" align="center"/>
-    <img src="https://github.com/MB-ARG/MB-ARG/blob/main/images/proyects/dogs_2.png" width="2000" height="600" align="center"/>
+    <!-- <img src="https://github.com/MB-ARG/MB-ARG/blob/main/images/proyects/dogs_1.png" width="2000" height="600" align="center"/> -->
+    <!-- <img src="https://farmacosalud.com/wp-content/uploads/2015/10/separador-1.png" width="2000" height="80" align="center"/>
+    <img src="https://github.com/MB-ARG/MB-ARG/blob/main/images/proyects/dogs_2.png" width="2000" height="600" align="center"/> -->
 </p>  
 
 #### Puedes verlo haciendo Click [Aqui](https://github.com/MB-ARG/PI_Dogs-FT13)
