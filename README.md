@@ -58,9 +58,11 @@ Base de datos -
 ##### Features: Catalogo / Paginación / Formularios / Detalle de Producto / Busqueda / Filtrado / Ordenamiento / Consume API / 
 <p align="center">
     cambiando imagenes****
-    <!-- <img src="https://github.com/MB-ARG/MB-ARG/blob/main/images/proyects/dogs_1.png" width="2000" height="600" align="center"/>
+    <img src="https://github.com/Notshak/Notshak/blob/main/images/landing%20page.png" width="2000" height="600" align="center"/>
     <img src="https://farmacosalud.com/wp-content/uploads/2015/10/separador-1.png" width="2000" height="80" align="center"/>
-    <img src="https://github.com/MB-ARG/MB-ARG/blob/main/images/proyects/dogs_2.png" width="2000" height="600" align="center"/> -->
+    <img src="https://github.com/Notshak/Notshak/blob/main/images/home.png" width="2000" height="600" align="center"/>
+    <img src="https://farmacosalud.com/wp-content/uploads/2015/10/separador-1.png" width="2000" height="80" align="center"/>
+    <img src="https://github.com/Notshak/Notshak/blob/main/images/this%20dog.png" width="2000" height="600" align="center"/>
 </p>  
 
 #### Puedes verlo haciendo Click [Aqui](https://github.com/MB-ARG/PI_Dogs-FT13)
